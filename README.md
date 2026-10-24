@@ -59,6 +59,7 @@
 - [Auto code](https://autocode.com/) - Turn ideas into software with AI. No more reading API documentation. Build JavaScript-powered bots, scripts and APIs with code generation and instant deployment.
 - [MakeReal.TLDraw](https://makereal.tldraw.com/) - Turn Hand drawn Sketches into Apps . [github](https://github.com/tldraw/make-real?tab=readme-ov-file)
 - [library.relume](https://library.relume.io/) - Design and build a website with prompt. Access the world’s largest library of Figma & Webflow components and build better websites in hours, not days.
+- [deed.page](https://deed.page/) - Publish the HTML page or static site your coding agent built (Claude Code, Codex, Cursor) to a public link with one API call, no account needed. Open-source agent skill on [github](https://github.com/f-o-x11/deed-page-skill).
 
 ## AI Design
 - [designer.microsoft](https://designer.microsoft.com/) - AI Designer for marketing brands and banners
